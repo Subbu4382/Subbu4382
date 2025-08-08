@@ -78,21 +78,21 @@ I’m eager to learn, collaborate on innovative projects, and contribute to impa
 ## 📈 My GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subbu4382&show_icons=true&theme=radical" alt="Subbu's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subbu4382&layout=compact&theme=radical" alt="Top Languages" />
-</p>  
+  <img src="https://github-readme-stats.vercel.app/api?username=Subbu4382&show_icons=true&theme=radical&v=${{ github.run_number }}" alt="Subbu's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subbu4382&layout=compact&theme=radical&v=${{ github.run_number }}" alt="Top Languages" />
+</p> 
 
 ---
 
 ## 🔥 GitHub Streak & Contribution Graph  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Subbu4382&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Subbu4382&theme=radical&hide_border=true&v=${{ github.run_number }}" alt="GitHub Streak" />
 </p>  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subbu4382&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</p>  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subbu4382&theme=react-dark&hide_border=true&v=${{ github.run_number }}" alt="Contribution Graph" />
+</p>
 
 ---
 
