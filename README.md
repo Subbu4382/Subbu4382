@@ -87,7 +87,7 @@ I love building **creative, efficient, and scalable** solutions that solve real-
 
 ---
 
-### 💼 [Personal Portfolio Website](https://github.com/Subbu4382/Portfolio) *(Planned)*  
+### 💼 [Personal Portfolio Website](https://github.com/Subbu4382/Portfolio)
 *A personal portfolio website to showcase my skills, projects, and achievements.*  
 **Features:**  
 - Fully responsive design  
