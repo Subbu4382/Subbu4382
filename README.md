@@ -3,10 +3,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff758c&height=200&section=header&text=Hi%20I'm%20Subrahmanyam%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header Banner" />
 </p> 
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">  
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F72585&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Python+%7C+Flask+%7C+JavaScript;Node.js+%7C+React.js+%7C+MySql;AI+%7C+NLP+Enthusiast;Always+learning+new+technologies+🚀">
-  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F72585&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Python+%7C+Flask+%7C+JavaScript;Node.js+%7C+React.js+%7C+MySQL;AI+%7C+NLP+Enthusiast;Always+learning+new+technologies+🚀" alt="Typing SVG" />
+</p>
+
+<!-- About Me Section -->
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">  
+
 💡 A passionate and results-driven fresher with a strong foundation in **Full Stack Web Development** and **Python-based Applications**.  
 🎓 Recent graduate from **Kakinada Institute of Engineering and Technology** *(B.Tech in Computer Science, CGPA: 7.73)*.  
 
@@ -17,8 +21,8 @@ I love building **creative, efficient, and scalable** solutions that solve real-
 ---
 
 ## 🔭 Currently Working On
-- **Language Translator** 🌐 — A multilingual text-to-text translation app using **Flask, Python, MarianMT (Hugging Face)** & **NLP**.  
-- **Leveling up** my skills in **AI-powered applications** and **automation testing**.  
+- 🌐 **Language Translator** — A multilingual text-to-text translation app using **Flask, Python, MarianMT (Hugging Face)** & **NLP**.  
+- 📈 **Leveling up** my skills in **AI-powered applications** and **automation testing**.  
 
 ---
 
@@ -95,8 +99,8 @@ I love building **creative, efficient, and scalable** solutions that solve real-
 ---
 
 ## 📜 Internship Experience
-- **Web Full Stack Developer Intern — Eduskills** 🖥 — Built and deployed responsive apps with REST APIs.  
-- **Salesforce Developer Virtual Internship** ☁ — Worked on Apex, Visualforce, Lightning components & automation tools.  
+- 🖥 **Web Full Stack Developer Intern — Eduskills** — Built and deployed responsive apps with REST APIs.  
+- ☁ **Salesforce Developer Virtual Internship** — Worked on Apex, Visualforce, Lightning components & automation tools.  
 
 ---
 
@@ -126,5 +130,3 @@ I love building **creative, efficient, and scalable** solutions that solve real-
 📧 **Email:** subrahmanyamdunne@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/Subrahmanyam-Dunne](https://www.linkedin.com/in/subrahmanyam-dunne-5b271b2b3)  
 💻 **GitHub:** [github.com/Subbu4382](https://github.com/Subbu4382)  
-
----
