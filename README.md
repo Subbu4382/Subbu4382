@@ -8,6 +8,7 @@
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">  
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F72585&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Python+%7C+Flask+%7C+JavaScript;AI+%7C+NLP+Enthusiast;Always+learning+new+technologies+🚀">
+  
 💡 A passionate and results-driven fresher with a strong foundation in **Full Stack Web Development** and **Python-based Applications**.  
 🎓 Recent graduate from **Kakinada Institute of Engineering and Technology** *(B.Tech in Computer Science, CGPA: 7.73)*.  
 
