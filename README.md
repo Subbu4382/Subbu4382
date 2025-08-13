@@ -1,13 +1,11 @@
 <!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff758c&height=200&section=header&text=Hi%20I'm%20Subrahmanyam%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header Banner" />
-</p>
-
-# <span style="background: linear-gradient(90deg, #ff7eb3, #ff758c, #ff6a00); -webkit-background-clip: text; color: transparent;">Hi there, I'm Subrahmanyam! 👋</span>  
+</p> 
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F72585&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Python+%7C+Flask+%7C+JavaScript;AI+%7C+NLP+Enthusiast;Always+learning+new+technologies+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F72585&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Python+%7C+Flask+%7C+JavaScript;Node.js+%7C+React.js+%7C+MySql;AI+%7C+NLP+Enthusiast;Always+learning+new+technologies+🚀">
   
 💡 A passionate and results-driven fresher with a strong foundation in **Full Stack Web Development** and **Python-based Applications**.  
 🎓 Recent graduate from **Kakinada Institute of Engineering and Technology** *(B.Tech in Computer Science, CGPA: 7.73)*.  
