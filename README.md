@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" alt="Banner Animation">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff758c&height=200&section=header&text=Hi%20I'm%20Subrahmanyam%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header Banner" />
 </p>
 
 # <span style="background: linear-gradient(90deg, #ff7eb3, #ff758c, #ff6a00); -webkit-background-clip: text; color: transparent;">Hi there, I'm Subrahmanyam! 👋</span>  
