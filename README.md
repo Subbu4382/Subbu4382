@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff758c&height=200&section=header&text=Hi%20I'm%20Subrahmanyam%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff758c&height=200&section=header&text=Hi%20I'm%20Subrahmanyam%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header Banner" />
 </p> 
 
 <!-- Typing Animation -->
