@@ -5,8 +5,18 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F72585&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Python+%7C+Flask+%7C+JavaScript;Node.js+%7C+React.js+%7C+MySQL;AI+%7C+NLP+Enthusiast;Always+learning+new+technologies+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+%7C+Flask+%7C+JavaScript;Node.js+%7C+React.js+%7C+MySQL;AI+%7C+NLP+Enthusiast;Always+learning+new+technologies+🚀" alt="Typing SVG" />
 </p>
+
+<!-- Quick Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Fresher-success?style=for-the-badge&color=28a745" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Loves-Python%20%26%20AI-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Jobs-orange?style=for-the-badge" />
+</p>
+
+---
 
 <!-- About Me Section -->
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">  
@@ -87,7 +97,7 @@ I love building **creative, efficient, and scalable** solutions that solve real-
 
 ---
 
-### 💼 [Personal Portfolio Website](https://github.com/Subbu4382/Portfolio)
+### 💼 [Personal Portfolio Website](https://github.com/Subbu4382/Portfolio)  
 *A personal portfolio website to showcase my skills, projects, and achievements.*  
 **Features:**  
 - Fully responsive design  
@@ -106,22 +116,22 @@ I love building **creative, efficient, and scalable** solutions that solve real-
 
 ## 📈 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subbu4382&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subbu4382&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Subbu4382&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subbu4382&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 ## 🔥 Contribution Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Subbu4382&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Subbu4382&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>  
 
 ---
 
 ## 📊 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subbu4382&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subbu4382&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>  
 
 ---
