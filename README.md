@@ -76,6 +76,28 @@ I love building **creative, efficient, and scalable** solutions that solve real-
 
 ---
 
+### 🧾 [Retail Sales Analysis using SQL](https://github.com/Subbu4382/RETAIL_SALES_ANALYSIS_SQL_)  
+*An in-depth SQL project analyzing retail sales trends, customer behavior, and profitability metrics.*  
+**Features:**  
+- Data cleaning and preprocessing using SQL queries  
+- Category-wise sales and revenue breakdown  
+- Month-wise best-selling products and seasonal trends  
+- Use of **Joins, CTEs, Window Functions, and Aggregates**  
+**Tech Stack:** MySQL, SQL Functions, Data Analysis Concepts  
+
+---
+
+### 🛒 [Zepto Data Analysis Project](https://github.com/Subbu4382/ZEPTO_SQL_DATA_ANALYSIS_PROJECT)  
+*A SQL-based data analysis project inspired by real-world grocery delivery insights.*  
+**Features:**  
+- Calculated discount strategies and price optimization  
+- Analyzed product demand and customer purchase frequency  
+- Performance tracking of best-selling categories  
+- Implemented **Views, Stored Procedures, and Ranking Functions**  
+**Tech Stack:** MySQL, SQL Analytics, Optimization Techniques  
+
+---
+
 ### 🎮 Tic-Tac-Toe  
 *A modern, interactive two-player web-based game with a responsive design.*  
 **Features:**  
@@ -136,4 +158,4 @@ I love building **creative, efficient, and scalable** solutions that solve real-
 ## 📬 Let's Connect
 📧 **Email:** subrahmanyamdunne@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/Subrahmanyam-Dunne](https://www.linkedin.com/in/subrahmanyam-dunne-5b271b2b3)  
-💻 **GitHub:** [github.com/Subbu4382](https://github.com/Subbu4382)  
+💻 **GitHub:** [github.com/Subbu4382](https://github.com/Subbu4382)
