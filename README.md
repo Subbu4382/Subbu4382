@@ -159,14 +159,14 @@ Smart recipe discovery based on ingredients and preferences
 - ⏱️ Nutrition calculator
 - 💾 Save favorites
 
-**Stack:** Python • Django • PostgreSQL • Bootstrap
+**Stack:** Python • Django • MySQL • React
 
 [![View](https://img.shields.io/badge/View_Code-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Subbu4382/RecipeFinder)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎓 Learning Planner
+### 🎓 Daily Learning Planner
 
 
 Personalized learning schedule and progress tracker
@@ -177,7 +177,7 @@ Personalized learning schedule and progress tracker
 - 🎯 Goal tracking
 - 🔔 Smart reminders
 
-**Stack:** Python • Django • SQLite • Chart.js
+**Stack:** Python • Django • MySql • React
 
 [![View](https://img.shields.io/badge/View_Code-EC4899?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Subbu4382/DailyLearningPlanner)
 
