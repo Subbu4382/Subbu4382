@@ -1,6 +1,6 @@
 <!-- Dynamic Header with Soft Gradient -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,8,10&height=250&section=header&text=Subrahmanyam%20Dunne&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20&descAlignY=55&descSize=20" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,8,10&height=250&section=header&text=Subrahmanyam%20Dunne&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" alt="Header" />
 </p>
 
 <!-- Animated Typing Effect -->
