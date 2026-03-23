@@ -37,13 +37,13 @@
 ```javascript
 const subrahmanyam = {
     currentFocus: "Building production-ready MERN applications",
-    learning: ["AI/ML Integration", "TypeScript", "Next.js"],
+    learning: ["AI Integration", "webSockets" , "Payment Gateway"],
     workingOn: "Service Marketplace Platform",
     techStack: {
         frontend: ["React.js", "Next.js", "Tailwind CSS"],
         backend: ["Node.js", "Express.js", "Python", "Django", "Flask"],
         database: ["MongoDB", "MySQL"],
-        tools: ["Git", "Docker", "Postman", "VS Code"]
+        tools: ["Git", "Docker", "Postman", "VS Code","swagger"]
     },
     askMeAbout: ["Web Development", "MERN Stack", "Django", "REST APIs"]
 };
